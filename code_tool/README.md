@@ -1,4 +1,6 @@
 Useful tools:  
 1) git   
-    http://gitreal.codeschool.com/
+   https://www.atlassian.com/git/
+   
+   
 
